@@ -2,10 +2,9 @@
 #include <stdio.h>
 #include <time.h>
 /**
-* main - main
+* positive_or_negative - debugging
+*@n: Multiple mains
 * Return: 0
-*
-* description: positive or negative
 *
 */
 int positive_or_negative(int n)
